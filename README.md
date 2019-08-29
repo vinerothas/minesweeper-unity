@@ -6,7 +6,7 @@ Amazon EC2 server for matchmaking. The players could interact with each other by
 some tiles momentarily inaccessible using different skills. Charges for the skills are obtained through
 uncovering tiles. This system still works in singleplayer, but offensive skills are disabled. I abandoned this
 project after starting to rewrite the game to handle the game state on the server to avoid potential cheating.
-I stopped working on the project due in order to have more time for studying.  
+I stopped working on the project in order to have more time for studying.  
 
 ## How to play
 You need unity player to run Saper.exe.  
